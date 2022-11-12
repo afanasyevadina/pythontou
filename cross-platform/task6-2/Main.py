@@ -9,7 +9,6 @@ turtle.fillcolor("#FFFF00")
 turtle.pencolor('#555555')
 turtle.begin_fill()
 
-# Начинаем построение фронатальной стороны коробки
 turtle.left(155)
 turtle.forward(150)
 turtle.left(60)
