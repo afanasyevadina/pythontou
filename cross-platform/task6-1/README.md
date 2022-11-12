@@ -4,7 +4,7 @@
 
 В данной работе сделаны визитки на персонажей сериала "Кремниевая долина"
 
-[Источник](https://fanfics.me/fandom882/heroes)
+С источником описаний можно ознакомиться [тут](https://fanfics.me/fandom882/heroes)
 
 ![Screenshot](screenshot_1.png)
 
